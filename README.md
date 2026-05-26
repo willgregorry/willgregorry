@@ -18,7 +18,7 @@ I am a web developer with a strong focus on the frontend ecosystem and UI/UX des
 - 💡 **Recent Milestone:** Had a blast sharing my knowledge as a speaker for the *"Tailwind CSS Mastery"* workshop at GDGoC USU!
 - 👯 **Open to Collaborate on:** Modern frontend architectures, design system implementations, and open-source production-ready tools.
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stacks
 *Technologies and tools I use to bring ideas to life:*
 
 **Frontend & Design**
@@ -30,7 +30,7 @@ I am a web developer with a strong focus on the frontend ecosystem and UI/UX des
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-**Backend, Mobile & Database Cloud**
+**Backend, Mobile & Database**
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
